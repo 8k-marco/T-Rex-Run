@@ -1,0 +1,893 @@
+fileFormatVersion: 2
+guid: e12ee6795198b514d9d95cca3ed95404
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 80
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199c978990e52ed44b632a4f8e82804f
+      internalID: 2056581720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 80
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eadf750bed8e3c4682ad3db67a5a615
+      internalID: 16950632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 80
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146d9dd43450f4e439aaca1ada06f195
+      internalID: -1097443252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 80
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529db2db32cc564478c3ba4e6eaa3f32
+      internalID: -2031593377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 80
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c47f020bdca64144916a30dbdfcb3a8
+      internalID: 670775583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 80
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaa5774d2cc7324eb70dfc6a074ed06
+      internalID: 1156412301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_6
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 80
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394c870bad1ea774d977c0faf4bd24c0
+      internalID: -132334325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_7
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 80
+        width: 7
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f113fce8abffb1a449accebdcf1059d1
+      internalID: 612301809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 111
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dea6dfd9c9121e438ada372af4ec303
+      internalID: -244795003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 80
+        width: 7
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a3f31275b1e634a914d25805297772
+      internalID: 920400912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_10
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 80
+        width: 7
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d1e80fc82b36b469db6445941411fe
+      internalID: 1650154686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_11
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 80
+        width: 7
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e91192e46a239469f5a59fc43924e5
+      internalID: 1922309717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 80
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46af3d6bee0749f4c9b271116a524ba5
+      internalID: 2133702640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_13
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 80
+        width: 8
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c286a139132434090953ca6b07aa9e
+      internalID: -791552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_14
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 80
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c22025d6a2a18a4f88c68db852c9b59
+      internalID: 1746213944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_15
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 80
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a92b090a16ffff42b526c573691a9fa
+      internalID: 1873920198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_16
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 80
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a598c5a90446c2408768f4246523d59
+      internalID: 629461453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_17
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 80
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54116a8d6a66a2c4282645298ce8854e
+      internalID: 1003856749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_18
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 80
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c064e122dbffac943afc18a12539b5e0
+      internalID: -15760796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_19
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 80
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93330fc6babad744caaab671dacca797
+      internalID: -1661707329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_20
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 80
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0630639b1408ce40b194bd72a75ad25
+      internalID: 80345037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_21
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 80
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115927ac915276f44bb37938e4cc4d17
+      internalID: -1402261106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 7
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7c5a8a8c8dc074288b97fb2b4c7ccd
+      internalID: -785698051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 7
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9beed91ad28c06479b47b5f38424a4c
+      internalID: 1209602745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_24
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 7
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c05c7b1aec6c54db1e11da06bb8808
+      internalID: 1874895127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 58
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a051c104e101cf4a94ba830c9233ff9
+      internalID: -2056128731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_26
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 7
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8bcb75ac36cb044a33d9e7bfffab2a
+      internalID: -182336010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_27
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 7
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fefed7339145e4a9fcdfebb5bb1c20
+      internalID: 77098826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_28
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 6
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c04a29d04c3ab4a831eaac27d1d766
+      internalID: -374578300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_29
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 7
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb15c9c539cf6a4e85f5cec256dc194
+      internalID: -1304232558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_30
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 7
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def80c03142d32c42bf6028dee391dd5
+      internalID: 343572540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_31
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 7
+        width: 18
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32e3adaf69a43a40a9bc71e98f2fb5e
+      internalID: 1910925461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_32
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 7
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45b5cfc09f20254db7dd2d42c3ff380
+      internalID: -1907270481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_33
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 7
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb231c1ff3b77345a6cc279ef87d503
+      internalID: 1525136122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ee22fc52af2fc4a9e869098fa0b532
+      internalID: 2096512000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_0: 2056581720
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_1: 16950632
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_10: 1650154686
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_11: 1922309717
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_12: 2133702640
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_13: -791552
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_14: 1746213944
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_15: 1873920198
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_16: 629461453
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_17: 1003856749
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_18: -15760796
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_19: -1661707329
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_2: -1097443252
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_20: 80345037
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_21: -1402261106
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_22: -785698051
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_23: 1209602745
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_24: 1874895127
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_25: -2056128731
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_26: -182336010
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_27: 77098826
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_28: -374578300
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_29: -1304232558
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_3: -2031593377
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_30: 343572540
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_31: 1910925461
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_32: -1907270481
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_33: 1525136122
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_34: 2096512000
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_4: 670775583
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_5: 1156412301
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_6: -132334325
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_7: 612301809
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_8: -244795003
+      Custom Edited - Sonic the Hedgehog Customs - SEGA Font Sonic 1-Style_9: 920400912
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
